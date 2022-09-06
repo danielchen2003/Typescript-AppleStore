@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch",
+    "price": 299,
+    "imgUrl": "https://ss7.vzw.com/is/image/VerizonWireless/apple-watch-se-space-gray-aluminum-sport-band-44mm-aw-se-44-sg-mdn-sb-mkrr3ll-a?hei=400&fmt=webp"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro 14-inch",
+    "price": 1499,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSufbGGt_EqfXbiWVNSrp5Gtsr6WG8ecd3UoO36xJmRZQ7WnvLH0EBtJoKZu7CvOG4m8zwlf2G1ZWlTxf9JCktDHS-ttZaKO2rmpVBUFSrpKcrggTH4QPf0hVw&usqp=CAE"
+  },
+  {
+    "id": 3,
+    "name": "Airpod Pro",
+    "price": 179,
+    "imgUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS2HmfbzywYV0eRCv88JUTHyGIRXAQbieSFV2GsBUi0Me-YVIOyWJhxBrCvPE5ogyxZZQbxh4VmU09QDYtDZ99g7iM8wdrB1tnu4P-nj8A&usqp=CAE"
+  },
+  {
+    "id": 4,
+    "name": "Ipad Mini",
+    "price": 399,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR-SdrdhFkfi8ZZMLNOMwaJQSxDeMX8IcQSoiQR9rQIIjuu2gIK43t0ipke5os4rbZ-4Fkp13My7tyUj31C_MwxkYvXBkm343PsAJyfjnpZvb5uary_XqVeyA&usqp=CAE"
+  },
+  {
+    "id": 5,
+    "name": "Ipad Air 4",
+    "price": 469,
+    "imgUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2V1HmmHjYfp2OrdCt8ASzN-fBWCaVWjK6hYYMw_qYQ3EEXxXnaKti9j3O5KQGcFAIPo0SWhahtJSuib1mWcjKrUKV2gvFRlyp73tsu2Akab9te_spqPuv&usqp=CAE"
+  },
+  {
+    "id": 6,
+    "name": "Iphone 13 ProMax",
+    "price": 1599,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnTym0QNDZRUwZb7dxBEanzd7hguca5iy38k1f68QVTaUmuLzzON_Ys4wYgW7_5w9azJJEwjbZ0Ouh-Fo5jSbZcOmyuRyAeRrjThXlqTg&usqp=CAE"
+  }
+]
