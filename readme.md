@@ -18,3 +18,7 @@
 First app build with TS
 
 Demo Link: https://grand-clafoutis-a51c4e.netlify.app/
+
+Screenshot
+
+![1662488733025](image/readme/1662488733025.png)
